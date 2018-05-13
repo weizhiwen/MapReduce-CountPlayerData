@@ -13,6 +13,6 @@
 
 球员数据上传到 HDFS 中，HDFS 相关个人博客链接：[HDFS基本命令 ](https://wenshixin.gitee.io/blog/2018/04/02/HDFS%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/)
 
-执行效果如下：
+统计结果如下：
 
 ![统计的结果](./images/统计的结果.png)
